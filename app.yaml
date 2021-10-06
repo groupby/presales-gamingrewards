@@ -1,0 +1,2 @@
+service: gamingrewards
+runtime: nodejs12
